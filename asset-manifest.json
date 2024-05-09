@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AdminDashboard/static/css/main.9eb1398c.css",
+    "main.js": "/AdminDashboard/static/js/main.f0dc7b7d.js",
+    "static/js/453.87980917.chunk.js": "/AdminDashboard/static/js/453.87980917.chunk.js",
+    "static/media/user.png": "/AdminDashboard/static/media/user.7be416ee259daa1221e4.png",
+    "index.html": "/AdminDashboard/index.html",
+    "main.9eb1398c.css.map": "/AdminDashboard/static/css/main.9eb1398c.css.map",
+    "main.f0dc7b7d.js.map": "/AdminDashboard/static/js/main.f0dc7b7d.js.map",
+    "453.87980917.chunk.js.map": "/AdminDashboard/static/js/453.87980917.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb1398c.css",
+    "static/js/main.f0dc7b7d.js"
+  ]
+}
